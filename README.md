@@ -5,9 +5,8 @@ This is a simple project that generates random quotes. It is built using React a
 - Can copy quotes to clipboard
 - Share quotes on social media
 ## Installation
-1. Clone the repository:
+Clone the repository:
     ```
-    git clone https://github.com/your-username/daily-quote.git
+    git clone https://github.com/VortexWanderer9/daily-quote.git
     cd daily-quote  
-
     ```
